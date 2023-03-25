@@ -25,11 +25,10 @@ Supports JMON, SCMON and BMON software based single steppers triggered via the I
 ### Independent Single Stepper
 Step the CPU one machine cycle at a time, any time, without software modification; uses the CPU’s WAIT pin to ‘pause’ operation.
 
-
+---
 
 ![DBL PCB](DasBlinkenLights.jpg "DBL PCB")
 
+---
 
 Please See the [PDF file](Das%20Blinkenlights%20and%20Single%20Stepper.pdf)  for the full article and details.
-
-
